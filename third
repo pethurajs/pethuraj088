@@ -5,7 +5,15 @@ and not merged
 =======
 merge conflict
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 >>>>>>> oldest
+=======
+stashing
+>>>>>>> Stashed changes
+=======
+stashing
+>>>>>>> Stashed changes
 =======
 stashing
 >>>>>>> Stashed changes
